@@ -1,1 +1,1 @@
-Curso de Golang, Rocketseat.
+Curso de Golang, feito pela Rocketseat.
