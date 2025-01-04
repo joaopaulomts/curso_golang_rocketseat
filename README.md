@@ -1,1 +1,1 @@
-Trilha de Golang da Rocketseat.
+Trilha de Golang leciado pela Rocketseat.
