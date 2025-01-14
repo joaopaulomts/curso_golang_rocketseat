@@ -7,6 +7,5 @@ import (
 
 func main() {
 	fmt.Println("hello, world")
-	fmt.Println(pacote.Bar)
 }
 
