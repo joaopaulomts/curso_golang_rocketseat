@@ -1,1 +1,1 @@
-Curso de Golang
+Curso de Golang - Rocketseat
